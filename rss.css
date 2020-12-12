@@ -1,0 +1,38 @@
+background: #FFFFFF;
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%),
+linear-gradient(0deg, #FF8200, #FF8200);
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+
+.hnhj{
+    font
+}
+
+</div>
+
+849199, 44%
+
+
+
+<form action="/logout?_method+DELETE" method="POST">
+        <button type="submit">LogOut</button>
+        </form>
+
+        <a href="/login"><li id="li"><i class="fas fa-user"></i>Login<i class="fas fa-angle-down"></i></li></a>  
+
+
+
+        <div class="head2">
+            
+                <ul id="below">
+                    <li>All Categories<i class="fas fa-bars"></i></li>
+                    <li>Computer & Accessories</li>
+                    <li>Eletronics</li>
+                    <li>Fashion</li>
+                    <li>Home & Kitchen</li>
+                    <li>Office</li>
+                </ul>
+                 
+        </div>
