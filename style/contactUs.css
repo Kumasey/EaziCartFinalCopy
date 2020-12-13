@@ -6,7 +6,7 @@
 
 body{
     width: 1440px;
-    height: 2290px; 
+    height: 2437px; 
     align-items: center;
     justify-content: center;
     margin-bottom: 0;
@@ -1059,17 +1059,6 @@ button{
     line-height: 30.47px;
 }
 
-
-.footer{
-    height: 10%;
-    display: flex;
-    flex-direction: column;
-    background: #153B50;
-    
-}
-
-
-
 button:focus {
     border: none;
     outline: none;
@@ -1079,22 +1068,27 @@ input:focus {
     border: none;
     outline: none;
 }
+/* footer */
+
+.footer{
+    height: 16.8%;
+    display: flex;
+    flex-direction: column;
+    background: #153B50;
+    
+}
 
 .list-footer{
-    height: 100%;
+    height: 80%;
     width: 100%;
     color: #FFFFFF;
 }
 
-.fab{
-    color: #ffffff;
-}
-
 .footera{
-    height: 80%;    
+    height: 85%;    
     display: flex;
     justify-content: space-between;
-    margin: 15px;
+    margin: 25px;
 }
 
 li{
@@ -1105,14 +1099,12 @@ li{
     width: 9%;
 }
 
-
+.footerb{
+    height: 10%;
+}
 
 ul{
     margin-right: 2%; 
-}
-
-.footerb{
-    height: 20%;
 }
 
 .copyright-text{
@@ -1122,14 +1114,11 @@ ul{
     font-style: normal;
     font-weight: 300;
     line-height: 23px;
-    letter-spacing: 0em;
-    
-
-    
+    letter-spacing: 0em; 
 }
 
 .play-img{
-    font-size: 80px;
+    font-size: 98px;
     margin-right: 3%;
 }
 
@@ -1140,7 +1129,7 @@ ul{
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 21px;
+    line-height: 20px;
     letter-spacing: 0em;
     text-align: left;
 
@@ -1151,26 +1140,27 @@ ul{
     font-family: Mulish;
     font-size: 18px;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 23px;
     letter-spacing: 0em;
     text-align: left;
 
 }
 
-
 a{
     text-decoration: none;
     color: black;
 }
 
-
+.fab{
+    color: #ffffff;
+}
 
 .f-contact{
     width: 70%;  
     align-items: center; 
     display: flex;
-    margin: 9% 4% 0 0;
+    margin: 4% 4% 0 0;
 }
 
 .f-font-mail{
@@ -1193,13 +1183,13 @@ a{
 
 #f-support{
     font-family: Encode Sans;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 23px;
-letter-spacing: 0em;
-text-align: left;
-color: #FFFFFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
 
 }
 

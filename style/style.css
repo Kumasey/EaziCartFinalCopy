@@ -712,14 +712,13 @@ input:focus {
 
 #f-support{
     font-family: Encode Sans;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 23px;
-letter-spacing: 0em;
-text-align: left;
-color: #FFFFFF;
-
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
 }
 
 #f-mail{
